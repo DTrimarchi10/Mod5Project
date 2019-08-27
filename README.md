@@ -2,8 +2,6 @@
 # Module 5 Project
 
 * Student name: **Dennis Trimarchi**
-* Student pace: **Full time**
-* Instructor name: **Rafael Carrasco**
 * Blog post URL: [https://medium.com/@dtuk81/classification-of-video-clips-d7f9d1bdd645]
 
 
