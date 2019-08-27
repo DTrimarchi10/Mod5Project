@@ -148,7 +148,7 @@ Removed collinear features summary:
 - Kept 15 (Spectral Flux Variance), dropped 7, 14
 - Also Dropped 4124, 4125 - not collinear, but also not useful in any model.
 
-I performed Primary Component Analysis (PCA) on both the Text Area Distribution Features (92-122) and the Bag of Audio Words Features (123-4123). I performed the PCA on each group of features separately. PCA on Text Area Distribution appeared promising with about 75% of the variance explained with 5 PCA features. However, for the Bag of Audio Words Features, 26 PCA features were required to obtain only 50% of the variance in the data.
+I performed Principal Component Analysis (PCA) on both the Text Area Distribution Features (92-122) and the Bag of Audio Words Features (123-4123). I performed the PCA on each group of features separately. PCA on Text Area Distribution appeared promising with about 75% of the variance explained with 5 PCA features. However, for the Bag of Audio Words Features, 26 PCA features were required to obtain only 50% of the variance in the data.
 
 **Blue = Commercial, Green = Non-commercial**
 
